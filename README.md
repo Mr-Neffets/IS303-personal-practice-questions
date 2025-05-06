@@ -2,7 +2,7 @@
 This repository contains many Python practice questions organized by topic for BYU's IS 303 class. These are intended to be used as preparation before class, as well as extra practice for any concept you need some more time getting familiar with.
 
 # Structure
-Each folder contains several practice problems for that chapter. Each practice problem has a `"_practice_"` file and a corresponding `"_solution_"` file with one possible solution shown. Each file includes instructions, as well as a prompt to have AI guide you if you get stuck.
+Each folder contains several practice problems for that chapter. Each practice problem has a `"_practice_"` file and a corresponding `"_solution_"` file with one possible solution shown. Each file includes instructions, as well as a prompt to have AI guide you if you get stuck. In general, I try to make the questions get more difficult as they go. So if you are already familiar with the syntax, it might be a better use of your time to do one of the later questions in a folder. If you are just starting out, I'd recommend starting at file `01` for each folder.
 
 # Recommended Use:
 - Step 1: Try and do the problem without any assistance.
