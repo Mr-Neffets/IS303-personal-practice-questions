@@ -27,6 +27,6 @@ study goals.
 # ways to solve a problem, so your solution may not look exactly the same.
 
 hours = float(input("How many hours did you study today? "))
-met_goal = hours >= 2
+met_goal = hours >= 2 # hours >=2 is a conditional, so it evaluates to True or False
 
 print(f"Met goal? {met_goal}")
