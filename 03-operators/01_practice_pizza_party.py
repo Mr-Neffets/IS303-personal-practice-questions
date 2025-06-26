@@ -12,7 +12,7 @@ easy-to-understand examples. Please use everyday language and explain things
 in a simple, friendly way.
 
 
-INSTRUCTIONS:
+INSTRUCTIONS FOR STUDENT:
 -------------
 You are ordering pizzas for a party. Each pizza has 8 slices. You want to
 find out how many slices will be left over if everyone eats the same amount.
