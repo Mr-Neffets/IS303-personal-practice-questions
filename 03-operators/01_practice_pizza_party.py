@@ -23,3 +23,5 @@ find out how many slices will be left over if everyone eats the same amount.
 4. Use modulus (%) to find out how many slices will be left over.
 5. Print the result in a sentence.
 '''
+
+print("this is a pizza party y'all!")
