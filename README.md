@@ -11,3 +11,4 @@ Each folder contains several practice problems for that chapter. Each practice p
 If you are using these problems to practice before going to class and you don't know anything about the new topic yet, feel free to start directly at step 2. If you've already learned something about the topic, try and do it yourself. If you get to a part of the problem you can't figure out, you now know what you need to practice. Use AI, a TA, or the professor to help you understand that part of the code. Then try and redo the whole problem from the beginning without looking anything up.
 
 test
+test2
